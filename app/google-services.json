@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361487356299",
+    "project_id": "fir-dc34b",
+    "storage_bucket": "fir-dc34b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361487356299:android:304b1fb7fc6f80b2929f8e",
+        "android_client_info": {
+          "package_name": "com.rafaelescudero.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361487356299-f6nokbhb7rrnsv3cb6lvi74mghs2otjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBu3O-7TZYRWlY_L1HVfcZCAjXb4GPIBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361487356299-f6nokbhb7rrnsv3cb6lvi74mghs2otjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

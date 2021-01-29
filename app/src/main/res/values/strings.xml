@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="prefs_file">com.rafaelescudero.firebase.FILE</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Página 1</string>
+    <string name="tab_text_2">Página 2</string>
+    <string name="tab_text_3">Página 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="maps_api_key">AIzaSyCqwqg7rOyObfAMyXDy0bfs3TBp0bRTH4g</string>
+</resources>
